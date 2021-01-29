@@ -1,6 +1,6 @@
 ![mountian](https://i.postimg.cc/J43h2tVm/clipart-free-mountain-7-original.png)
 # <div align= "center"> "Hello Wo...Wait, What Did I Just Do"</div>
-### Fail Fast, Fail Often, Fail Forward
+### <div align= "center"> Fast, Fail Often, Fail Forward</div>
 ###### Smith Thay
 
 
