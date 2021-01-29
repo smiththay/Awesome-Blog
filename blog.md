@@ -12,3 +12,8 @@ So what am I struggling with? The answer is **YES**. As I said, everything is ne
 
 
 This whole journey is exciting. Im eager and optimistic to learn more as I progress in the program. Currently, Im excited to have git and Github down so well that I can look back at this blog and laugh at the way I struggled. I can’t wait to fail next week 
+
+
+
+###### Me going into Monday like...
+![falling](https://media.giphy.com/media/14aLuWEyopPrFK/giphy.gif)
