@@ -28,7 +28,7 @@ I struggled with less this week but that doesn't mean I didn't struggle at all. 
 
 Im eager to learn more about CSS. I want to flex my creative side some more and being good at CSS will definitely help with that. 
 
-![typing](https://gfycat.com/artisticblondliger)
+
 
 
 
