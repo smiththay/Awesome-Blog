@@ -13,6 +13,7 @@ So what am I struggling with? The answer is **YES**. As I said, everything is ne
 
 This whole journey is exciting. Im eager and optimistic to learn more as I progress in the program. Currently, Im excited to have git and Github down so well that I can look back at this blog and laugh at the way I struggled. I can’t wait to fail next week 
 
+<<<<<<< HEAD
 ###### Me going into Monday like...
 ![falling](https://media.giphy.com/media/14aLuWEyopPrFK/giphy.gif)
 
@@ -27,3 +28,9 @@ I struggled with less this week but that doesn't mean I didn't struggle at all. 
 Im eager to learn more about CSS. I want to flex my creative side some more and being good at CSS will definitely help with that. 
 
 !
+=======
+
+
+###### Me going into Monday like...
+![falling](https://media.giphy.com/media/14aLuWEyopPrFK/giphy.gif)
+>>>>>>> ac0a6debbbef52ec974488e67fcb47205fcbbe3f
