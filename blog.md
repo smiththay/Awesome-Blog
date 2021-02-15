@@ -29,6 +29,11 @@ I struggled with less this week but that doesn't mean I didn't struggle at all. 
 Im eager to learn more about CSS. I want to flex my creative side some more and being good at CSS will definitely help with that. In addition to CSS, I am excited, and nervous, to learn Javscript. 
 
 
+#### Week Three- The One About JavaScript
 
+Back to the cliff of confusion. JavaScript has been very challenging. It is just vast and complex, and there is so much that you can do with the language. I can see how connecting JavaScript, HTML, and CSS are so fundamental in building websites and applications. By being proficient in all three can drastically change the user experience. 
 
+So far this blog incorporates just some HTML but later on in the bootcamp, I hope to incorporate CSS and JavaScript to take this blog to another level. Stay tuned to find out. 
+
+My thoughts on pseudo coding have completely 180'd. Pseudo coding can make a problem or project drastically easier. It takes more effort to create a good pseudo code than I initially thought. I will need to practice some more to really grasp pseudo coding for what it can do for my coding. 
 
