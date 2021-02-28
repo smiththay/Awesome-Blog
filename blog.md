@@ -37,3 +37,24 @@ So far this blog incorporates just some HTML but later on in the bootcamp, I hop
 
 My thoughts on pseudo coding have completely 180'd. Pseudo coding can make a problem or project drastically easier. It takes more effort to create a good pseudo code than I initially thought. I will need to practice some more to really grasp pseudo coding for what it can do for my coding. 
 
+#### Week Four- The One About More Javascript
+
+Each week had its own challenges, but with every challenge came an "AHA moment". There was a lot to dislike about learning any new topic because it is challenging. Git and Github was very confusing at first because it seemed useless to do all these steps to complete a task as simple as saving progress. But once I figured out how to do it, its purpose became more clear. It also saved me when making mistake, I was able to go back and start from a spot it was functioning. HTML was pretty simple to pick up because I had previous experience. CSS was new but was pretty easy to figure out. Javascript was a whole different beast though. It was so challenging to figure out syntax, how to properly work out functions, and generally just get code to work. 
+
+What is helpful to me is to just get down to business and get hands on with the projects. The reading content is fine but I learn best when I can just get  down to the nitty gritty and go through the trials of working these project out.
+
+What hindered my progress is purely just being an absolute noob to all the topics we learned. With the exception of HTML, I had never messed with any of the languages. JavaScript and the Katas were especially difficult. 
+
+For me the biggest way to overcome challenges is to remember my why. I am doing this boot camp for bigger reasons than just what is surface level. I have to remember my time is limited and I want to use it well. 
+
+
+### Front End
+##### Hit The Ground Running
+
+#### Week 5- The One About Bootstrap
+
+The biggest thing that held me back this week is how well I utilized my time this week after I left boot camp. What I mean is I am trying to figure out how to structure my day to best utilize my energy and not my time.
+
+To be quite frank, JavaScript is still very confusing because its so complex and has so many layers, it has been challenging to grasp it. It makes it difficult for me to process also because there is so many other things that we are learning as well.
+
+I thought Bootstrap and Atomic Design was awesome to learn this week. After getting used to it, it made structuring and styling a webpage so much easier. It simplifies so much HTML and CSS. I would like to learn more about how some of these larger websites and applications have utilized bootstrap for their sites. 
